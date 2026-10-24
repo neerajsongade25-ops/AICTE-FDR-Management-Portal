@@ -1,0 +1,21 @@
+# .env
+# .env.local
+# .env.*.local
+# *.env
+# *.pem
+# *.key
+# *.cert
+
+
+
+# ==========================================
+node_modules/
+/jspm_packages/
+.npm
+.eslintcache
+.parcel-cache
+.turbo/
+dist/
+build/
+.next/
+.nuxt/
